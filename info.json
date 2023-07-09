@@ -1,0 +1,60 @@
+{
+    "email": "lareuter@ucdavis.edu",
+    "instagram": "@cyclone_robosub",
+    "discord": "https://discord.gg/Hz2vNVCr7T",
+
+    "about": "We are a brand new student club at the University of California, Davis with the goal of building a fully autonomous robotic submarine (i.e. RoboSub) to compete in the annual RoboSub compeition.",
+    "mission": "Our mission is to build a community where engineering and non-engineering students alike can form connections and learn about the engineering process... and build a super cool robot.",
+    "introVideoURL": "https://www.youtube.com/embed/00KCCFCia6I",
+    "isUnderDevelopment": true,
+    
+    "leadership": {
+            "title": "Leadership",
+            "logo": "",
+            "members": [
+                "Peter Webster",
+                "Jason Pieck",
+                "Emelia Lenz",
+                "Logan Reuter"
+            ]
+    },
+    "teams": {
+        "software": {
+            "title": "Software",
+            "logo": "https://drive.google.com/uc?export=view&id=13f2mM_Ea3YUCi3ZuCIsjy9zYuVXmnNUg",
+            "members": []
+        },
+        "mechanical": {
+            "title": "Mechanical",
+            "logo": "https://drive.google.com/uc?export=view&id=1BghbpVvv_aoFUSU0-aLUw-WZKL-7KiMd",
+            "members": []
+        },
+        "electrical": {
+            "title": "Electrical",
+            "logo": "https://drive.google.com/uc?export=view&id=1sVtxhicXg18K0I2lbWeSWTPpcKKw0lvD",
+            "members": []
+        }
+    },
+    "members":{
+        "Peter Webster": {
+            "position": "Co-Founder",
+            "image": "",
+            "email": ""
+        },
+        "Jason Pieck": {
+            "position": "Co-Founder",
+            "image": "",
+            "email": ""
+        },
+        "Emelia Lenz": {
+            "position": "Treasurer",
+            "image": "",
+            "email": ""
+        },
+        "Logan Reuter": {
+            "position": "CTO",
+            "image": "",
+            "email": "lareuter@ucdavis.edu"
+        }
+    }
+}
